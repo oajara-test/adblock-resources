@@ -38,5 +38,37 @@
             "mime": "application/javascript"
         },
         "resourcePath": "touch-fix.js"
+    },
+    {
+        "name": "set-local-storage-item",
+        "aliases": [],
+        "kind": {
+            "mime": "application/javascript"
+        },
+        "resourcePath": "set-local-storage-item.js"
+    },
+    {
+        "name": "set-session-storage-item",
+        "aliases": [],
+        "kind": {
+            "mime": "application/javascript"
+        },
+        "resourcePath": "set-session-storage-item.js"
+    },
+    {
+        "name": "set-cookie",
+        "aliases": [],
+        "kind": {
+            "mime": "application/javascript"
+        },
+        "resourcePath": "set-cookie.js"
+    },
+    {
+        "name": "set-cookie-reload",
+        "aliases": [],
+        "kind": {
+            "mime": "application/javascript"
+        },
+        "resourcePath": "set-cookie-reload.js"
     }
 ]
